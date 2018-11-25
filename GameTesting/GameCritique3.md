@@ -1,1 +1,7 @@
+# Game Critique 3
 
+## Sly Cooper
+
+  Sly Cooper is a stealth game full of stealth puzzles and a bit of action with small open world levels. The makers of Sly Cooper are Sucker Punch Productions, and in the game, you go through each small destination across the world trying to find the villains who stole the pages of the thieves Raccoonus. After playing the game and beating it in a couple hours, I think there are a few things a game tester would look at.
+  
+One of the functions the developers really had to pay attention was Sly Coopers cane. In the game the cane is shaped like a hook and he can use it for so many things in the game. One the main things the developers had to test out about the cane is if it can hook on walls, hanging vines, and metal poles that are around the game because if that doesn’t work Sly can’t progress through the game that require you to do that. Another thing the developers had to test out was if it can grab coins. In the game if you press the square button you do a normal attack but can also be used to make it easier to grab coins as you swing the cane, so they had to test out if could grab the coins. Another thing the developers had to test was the stealth. A lot of the game require you to use stealth and take down enemies silently while the enemy is looking the other direction. Also, one of the abilities he has is to turn invisible in the game, so the enemies won’t see him and hunt him down anymore so they really had to test that out if it actually worked with every enemy except the bosses.
